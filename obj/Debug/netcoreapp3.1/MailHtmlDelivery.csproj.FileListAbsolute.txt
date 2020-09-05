@@ -1,0 +1,11 @@
+E:\Planfact\Projects\MailSender\MailHtmlDelivery\bin\Debug\netcoreapp3.1\MailHtmlDelivery.exe
+E:\Planfact\Projects\MailSender\MailHtmlDelivery\bin\Debug\netcoreapp3.1\MailHtmlDelivery.deps.json
+E:\Planfact\Projects\MailSender\MailHtmlDelivery\bin\Debug\netcoreapp3.1\MailHtmlDelivery.runtimeconfig.json
+E:\Planfact\Projects\MailSender\MailHtmlDelivery\bin\Debug\netcoreapp3.1\MailHtmlDelivery.runtimeconfig.dev.json
+E:\Planfact\Projects\MailSender\MailHtmlDelivery\bin\Debug\netcoreapp3.1\MailHtmlDelivery.dll
+E:\Planfact\Projects\MailSender\MailHtmlDelivery\bin\Debug\netcoreapp3.1\MailHtmlDelivery.pdb
+E:\Planfact\Projects\MailSender\MailHtmlDelivery\obj\Debug\netcoreapp3.1\MailHtmlDelivery.csprojAssemblyReference.cache
+E:\Planfact\Projects\MailSender\MailHtmlDelivery\obj\Debug\netcoreapp3.1\MailHtmlDelivery.AssemblyInfoInputs.cache
+E:\Planfact\Projects\MailSender\MailHtmlDelivery\obj\Debug\netcoreapp3.1\MailHtmlDelivery.AssemblyInfo.cs
+E:\Planfact\Projects\MailSender\MailHtmlDelivery\obj\Debug\netcoreapp3.1\MailHtmlDelivery.dll
+E:\Planfact\Projects\MailSender\MailHtmlDelivery\obj\Debug\netcoreapp3.1\MailHtmlDelivery.pdb
