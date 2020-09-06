@@ -36,22 +36,22 @@ namespace MailHtmlDelivery
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1200, 800);
             this.Text = "MailDelivery";
-            webBrowser.Size = new System.Drawing.Size(this.ClientSize.Width - 2 * 50, this.ClientSize.Height - 120 - 50 * 2);
+            webBrowser.Size = new System.Drawing.Size(this.ClientSize.Width - 2 * 50, this.ClientSize.Height - 120 - 50);
             webBrowser.Location = new Point(50, 50);
 
             InitButton(chooseFileButton,
                        "Выбрать файл",
-                       new Point(50, webBrowser.Height + 50),
+                       new Point(50, webBrowser.Height + 50 * 2),
                        System.Drawing.Color.Black,
                        System.Drawing.Color.White);
             InitButton(sendButton,
                        "Отправить",
-                       new Point(50 + 100 + clearButton.Width, webBrowser.Height + 50),
+                       new Point(50 + 100 + clearButton.Width, webBrowser.Height + 50 * 2),
                        System.Drawing.Color.Black,
                        System.Drawing.Color.PaleGreen);
             InitButton(clearButton,
                        "Очистить",
-                       new Point(50 + 100 * 2 + clearButton.Width + sendButton.Width, webBrowser.Height + 50),
+                       new Point(50 + 100 * 2 + clearButton.Width + sendButton.Width, webBrowser.Height + 50 * 2),
                        System.Drawing.Color.Black,
                        System.Drawing.Color.GhostWhite);
 
